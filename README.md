@@ -45,6 +45,6 @@ This project is licensed under the MIT License.
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+  
 ```
-
 Feel free to adjust any parts as needed!
