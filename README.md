@@ -1,4 +1,3 @@
-```markdown
 # Image Denoising Autoencoder
 
 This project implements an autoencoder to remove noise from images using the MNIST dataset.
